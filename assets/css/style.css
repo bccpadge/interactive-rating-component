@@ -259,4 +259,8 @@ fieldset {
     height: 3.125rem;
     line-height: 3.125rem;
   }
+
+  .submit-btn {
+    padding: 0.5em 0.5em;
+  }
 }
