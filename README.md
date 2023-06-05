@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-using-html-css-and-js-cz01YvEtz6)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/interactive-rating-component/)
 
 ## My process
 
